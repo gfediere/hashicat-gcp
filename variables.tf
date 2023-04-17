@@ -5,3 +5,7 @@ variable "prefix" {
 variable "region" {
   description = "The region where the resources are created."
 }
+
+variable "project" {
+  description = "The region where the resources are created."
+}

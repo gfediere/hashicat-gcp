@@ -8,7 +8,7 @@ terraform {
   cloud {
     organization = "guillaume-org"
     workspaces {
-      name = "easyDeploy-GCP"
+      name = "hashicat-gcp"
     }
   }
 }
